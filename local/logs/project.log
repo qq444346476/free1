@@ -1,0 +1,74 @@
+2018-04-27T01:21:14.490Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-27T01:21:14.490Z - normal: checking language setting...
+2018-04-27T01:21:14.490Z - normal: Language: zh
+2018-04-27T01:21:17.100Z - success: protocol editor-framework registered
+2018-04-27T01:21:17.100Z - success: protocol app registered
+2018-04-27T01:21:17.100Z - success: protocol theme registered
+2018-04-27T01:21:17.100Z - success: protocol packages registered
+2018-04-27T01:21:17.100Z - success: protocol unpack registerred
+2018-04-27T01:21:17.100Z - success: protocol disable-commonjs registerred
+2018-04-27T01:21:17.100Z - error: { Error: getaddrinfo ENOENT creator-api.cocos.com:443
+    at Object.exports._errnoException (util.js:1050:11)
+    at errnoException (dns.js:33:15)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:73:26)
+  code: 'ENOENT',
+  errno: 'ENOENT',
+  syscall: 'getaddrinfo',
+  hostname: 'creator-api.cocos.com',
+  host: 'creator-api.cocos.com',
+  port: 443 }
+    at E:\办公软件\CocosCreator_v1.9.0_20180314_win\resources\app.asar\share\login\lib\user.js:1:1441
+    at ClientRequest.Https.request.on.e (E:\办公软件\CocosCreator_v1.9.0_20180314_win\resources\app.asar\share\login\lib\network.js:1:873)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:191:7)
+    at TLSSocket.socketErrorListener (_http_client.js:358:9)
+    at emitOne (events.js:96:13)
+    at TLSSocket.emit (events.js:191:7)
+    at connectErrorNT (net.js:1032:8)
+    at _combinedTickCallback (internal/process/next_tick.js:80:11)
+2018-04-27T01:21:17.110Z - normal: failed to connect login server... skipping login
+2018-04-27T01:21:17.110Z - normal: Check project E:\youxi\2\start_project\start_project
+2018-04-27T01:21:17.110Z - normal: Initializing Cocos2d
+2018-04-27T01:21:17.780Z - normal: Initializing Asset Database
+2018-04-27T01:21:17.830Z - success: protocol uuid registerred
+2018-04-27T01:21:17.830Z - success: protocol db registerred
+2018-04-27T01:21:17.830Z - success: protocol thumbnail registerred
+2018-04-27T01:21:17.830Z - normal: Loading editor/builtin packages
+2018-04-27T01:21:17.860Z - success: anysdk loaded
+2018-04-27T01:21:18.010Z - success: assets loaded
+2018-04-27T01:21:18.010Z - success: builder loaded
+2018-04-27T01:21:18.020Z - success: cocos-analytics loaded
+2018-04-27T01:21:18.020Z - success: console loaded
+2018-04-27T01:21:18.060Z - success: fb-instant-games loaded
+2018-04-27T01:21:18.070Z - success: hierarchy loaded
+2018-04-27T01:21:18.070Z - success: inspector loaded
+2018-04-27T01:21:18.070Z - success: keystore loaded
+2018-04-27T01:21:18.080Z - success: node-library loaded
+2018-04-27T01:21:18.080Z - success: package-asset loaded
+2018-04-27T01:21:18.080Z - success: preferences loaded
+2018-04-27T01:21:18.080Z - success: project-exporter loaded
+2018-04-27T01:21:18.100Z - success: project-importer loaded
+2018-04-27T01:21:18.110Z - success: project-settings loaded
+2018-04-27T01:21:18.110Z - success: ui-kit loaded
+2018-04-27T01:21:18.110Z - success: ui-grid loaded
+2018-04-27T01:21:18.110Z - success: scene loaded
+2018-04-27T01:21:18.120Z - success: sprite-editor loaded
+2018-04-27T01:21:18.120Z - success: store loaded
+2018-04-27T01:21:18.120Z - success: timeline loaded
+2018-04-27T01:21:18.120Z - normal: Loading builtin packages
+2018-04-27T01:21:18.130Z - success: asset-db-debugger loaded
+2018-04-27T01:21:18.130Z - success: code-editor loaded
+2018-04-27T01:21:18.130Z - success: color-picker loaded
+2018-04-27T01:21:18.130Z - success: package-manager loaded
+2018-04-27T01:21:18.140Z - success: sdkbox loaded
+2018-04-27T01:21:18.140Z - success: tester loaded
+2018-04-27T01:21:18.140Z - success: ui-kit-preview-extra loaded
+2018-04-27T01:21:18.140Z - success: ui-kit-preview loaded
+2018-04-27T01:21:18.140Z - success: ui-tree loaded
+2018-04-27T01:21:19.650Z - normal: Initializing project E:\youxi\2\start_project\start_project
+2018-04-27T01:21:19.650Z - normal: Loading packages
+2018-04-27T01:21:19.650Z - normal: Watching packages
+2018-04-27T01:21:19.670Z - normal: Run Application
+2018-04-27T01:21:20.400Z - success: preview server running at http://localhost:7456
+2018-04-27T01:21:27.187Z - normal: 1.9.0
+2018-04-27T01:21:38.890Z - info: shutdown preview server
